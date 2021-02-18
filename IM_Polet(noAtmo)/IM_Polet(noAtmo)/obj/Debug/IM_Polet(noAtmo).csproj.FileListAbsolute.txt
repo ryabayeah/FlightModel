@@ -1,0 +1,10 @@
+C:\Users\Ryaba\source\repos\IM_Polet(noAtmo)\IM_Polet(noAtmo)\obj\Debug\IM_Polet(noAtmo).csprojAssemblyReference.cache
+C:\Users\Ryaba\source\repos\IM_Polet(noAtmo)\IM_Polet(noAtmo)\obj\Debug\IM_Polet_noAtmo_.Form1.resources
+C:\Users\Ryaba\source\repos\IM_Polet(noAtmo)\IM_Polet(noAtmo)\obj\Debug\IM_Polet_noAtmo_.Properties.Resources.resources
+C:\Users\Ryaba\source\repos\IM_Polet(noAtmo)\IM_Polet(noAtmo)\obj\Debug\IM_Polet(noAtmo).csproj.GenerateResource.cache
+C:\Users\Ryaba\source\repos\IM_Polet(noAtmo)\IM_Polet(noAtmo)\obj\Debug\IM_Polet(noAtmo).csproj.CoreCompileInputs.cache
+C:\Users\Ryaba\source\repos\IM_Polet(noAtmo)\IM_Polet(noAtmo)\bin\Debug\IM_Polet(noAtmo).exe.config
+C:\Users\Ryaba\source\repos\IM_Polet(noAtmo)\IM_Polet(noAtmo)\bin\Debug\IM_Polet(noAtmo).exe
+C:\Users\Ryaba\source\repos\IM_Polet(noAtmo)\IM_Polet(noAtmo)\bin\Debug\IM_Polet(noAtmo).pdb
+C:\Users\Ryaba\source\repos\IM_Polet(noAtmo)\IM_Polet(noAtmo)\obj\Debug\IM_Polet(noAtmo).exe
+C:\Users\Ryaba\source\repos\IM_Polet(noAtmo)\IM_Polet(noAtmo)\obj\Debug\IM_Polet(noAtmo).pdb
